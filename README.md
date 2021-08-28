@@ -1,3 +1,3 @@
 # First GitHub experience
 
-### Nothing usefull here
+### Nothing useful here
